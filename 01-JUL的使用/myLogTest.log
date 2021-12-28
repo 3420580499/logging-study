@@ -1,0 +1,14 @@
+十二月 27, 2021 9:40:58 下午 com.strive.JULTest test04
+严重: severe信息
+十二月 27, 2021 9:40:58 下午 com.strive.JULTest test04
+警告: warning信息
+十二月 27, 2021 9:40:58 下午 com.strive.JULTest test04
+信息: info信息
+十二月 27, 2021 9:40:58 下午 com.strive.JULTest test04
+配置: config信息
+十二月 27, 2021 9:40:58 下午 com.strive.JULTest test04
+详细: fine信息
+十二月 27, 2021 9:40:58 下午 com.strive.JULTest test04
+较详细: finer信息
+十二月 27, 2021 9:40:58 下午 com.strive.JULTest test04
+非常详细: finest信息
